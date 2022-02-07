@@ -9,8 +9,11 @@ Source: https://www.kaggle.com/arthurio/books-from-blackwells-bookshop?select=bl
 Content: Books metadata downloaded from the official site using web scraping and API. 
 In the cleaned version price names were renamed to distinguish between 
 prices in pounds and euros and some columns were transformed to numbers.
+
 Number of rows: 11573
+
 Number of features: 27
+
 Column names: isbn, publication_date, euro_price, discount_euro, type, category, link_book_page, name, subtitle, edition, author, gbp_price, discount_gbp, isSecondHand, publisher, published_country, imprint, language, no_of_pages, height, width, spine, weight, salesRank, short_blurb, long_blurb, blurbReview
 
 Datatype of the columns: 
