@@ -41,10 +41,14 @@ long_blurb            object
 blurbReview           object
 
 Plan:
+
 Day 1 - Exploring the data(discovering patterns/spotting anomalies) and start to clean the data
+
 Day 2 - Continuaing with cleaning the data: 
 - Replacing null values and drop columns if necessary
 - Removing typos
 Starting with Visualizing
+
 Day 3 - Finding unexpected patterns
+
 Day 4 - Making the presentation/ Storytelling
