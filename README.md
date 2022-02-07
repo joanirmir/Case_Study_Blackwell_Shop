@@ -11,7 +11,8 @@ In the cleaned version price names were renamed to distinguish between
 prices in pounds and euros and some columns were transformed to numbers.
 Number of rows: 11573
 Number of features: 27
-isbn, publication_date, euro_price, discount_euro, type, category, link_book_page, name, subtitle, edition, author, gbp_price, discount_gbp, isSecondHand, publisher, published_country, imprint, language, no_of_pages, height, width, spine, weight, salesRank, short_blurb, long_blurb, blurbReview
+Column names: isbn, publication_date, euro_price, discount_euro, type, category, link_book_page, name, subtitle, edition, author, gbp_price, discount_gbp, isSecondHand, publisher, published_country, imprint, language, no_of_pages, height, width, spine, weight, salesRank, short_blurb, long_blurb, blurbReview
+
 Datatype of the columns: 
 isbn                   int64
 publication_date      object
